@@ -1,0 +1,36 @@
+{
+  "name": "shade-blend-color",
+  "version": "1.0.0",
+  "description": "This will take a HEX or RGB web color, shade it darker or lighter, or blend it with a second color, and can also pass it right thru but convert from Hex to RGB (Hex2RGB) or RGB to Hex (RGB2Hex). All without you even knowing what color format you are using.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darieldejesus/shade-blend-color.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darieldejesus/shade-blend-color/issues"
+  },
+  "homepage": "https://github.com/darieldejesus/shade-blend-color#readme",
+  "keywords": [
+    "pSBC",
+    "shade",
+    "blend",
+    "color",
+    "blend-color",
+    "Hex2RGB",
+    "RGB2Hex",
+    "HEX",
+    "RGB",
+    "pSBC",
+    "pSBCjs",
+    "PimpTrizkit",
+    "PJs",
+    "Pimp",
+    "Trizkit"
+  ],
+  "author": "Pimp Trizkit (http://www.pimptrizkit.com)",
+  "license": "GPL-3.0"
+}
